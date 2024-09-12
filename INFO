@@ -9,34 +9,34 @@
 ================================================================================
 * Main Information *
 
-Title			: Super Mario AI Stars
-Release date		: Not Released
-Author			: SkullGamer205
-Author info		: https://dub.hs/SkullGamer205
+Title			        : Super Mario AI Stars
+Release date		    : Not Released
+Author                  : SkullGamer205
+Author info             : https://dub.hs/SkullGamer205
 
-Description		: Currently WIP
+Description             : Currently WIP
 
 ================================================================================
 * Additional Information *
 
-Engine	     		: TheXTech
-Asset Pack 		: Original
-Single Player 		: Yes
+Engine	     		    : TheXTech
+Asset Pack 		        : Original
+Single Player 		    : Yes
 Cooperative 2-4 Player	: <YES / NO>
 
-Build Time  		: 2024.09.12 - NOW
-Difficulty		: Normal
+Build Time  		    : 2024.09.12 - NOW
+Difficulty		        : Normal
 
-LunaDLL			: Yes
-LunaLua			: No
+LunaDLL			        : Yes
+LunaLua			        : No
 
-Characters		: Mario / Luigi
-Exits			: WIP
-Stars			: WIP
+Characters		        : Mario / Luigi
+Exits			        : WIP
+Stars			        : WIP
 
-Extra Informaton	: Currently WIP
+Extra Informaton	    : Currently WIP
 
 ================================================================================
 * Copyright *
 
-License			: CC BY-NC-SA 4.0
+License			        : CC BY-NC-SA 4.0
